@@ -1,4 +1,4 @@
-/* let numeroSecreto=0;
+let numeroSecreto=0;
 let intentos=0;
 let listaNumerosSorteados=[];
 let numeroMaximo=10;
@@ -67,7 +67,7 @@ function reiniciarJuego(){
     document.querySelector('#reiniciar').setAttribute('disabled', 'true');
 }
 
-condicionesIniciales(); */
+condicionesIniciales(); 
 /* ------------------------------------------------------------------------------------------------------------ */
 /* function calcularPromedio(nota1, nota2, nota3, nota4){
     return (nota1+nota2+nota3+nota4)/4;
@@ -125,7 +125,7 @@ function tablaDeMultiplicar(numero){
     }
 }
 
-tablaDeMultiplicar(100); */
+tablaDeMultiplicar(100); 
 
 let listaVacia=[];
 let lenguagesDeProgramacion=['JavaScript', 'C', 'C++', 'Kotlin', 'Python'];
@@ -219,3 +219,4 @@ function cuadradoNumerosLista(l1){
 //console.log(posicionParametro(5));
 //console.log(concatenaListas(lista1, lista2));
 console.log(cuadradoNumerosLista(lista2));
+*/
